@@ -1,0 +1,2 @@
+# taia
+Terminal AI Agent
